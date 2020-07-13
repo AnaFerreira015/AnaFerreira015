@@ -1,5 +1,13 @@
-### Hi there 👋
+### Ana Ferreira 👩🏾‍💻
 
+* :blue_heart: Tecnologia <br/>
+* 🌱 Desenvolvedora web júnior <br/>
+* :books: Ciência da computação 
+* :computer: Técnica em informática
+
+
+:globe_with_meridians: [Linkedin](https://www.linkedin.com/in/anaferreira015/) <br/>
+:page_facing_up: [Lattes](http://lattes.cnpq.br/2701672104479356)
 <!--
 **AnaFerreira015/AnaFerreira015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
