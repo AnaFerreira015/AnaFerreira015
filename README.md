@@ -1,9 +1,9 @@
 ### Ana Ferreira 👩🏾‍💻
 
-* :blue_heart: Tecnologia <br/>
-* 🌱 Desenvolvedora web júnior <br/>
-* :books: Ciência da computação 
-* :computer: Técnica em informática
+* :blue_heart: Technology <br/>
+* 🌱 Junior web developer <br/>
+* :books: Computer science 
+* :computer: Computer technician
 
 
 :globe_with_meridians: [Linkedin](https://www.linkedin.com/in/anaferreira015/) <br/>
