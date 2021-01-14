@@ -17,7 +17,7 @@
 > - Prefiro chá do que café 🤷🏽‍♀️ </br>
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFerreira015&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFerreira015&layout=compact)
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=AnaFerreira015&show_icons=true)
 
 :globe_with_meridians: [Linkedin](https://www.linkedin.com/in/anaferreira015/) <br/>
