@@ -8,7 +8,7 @@
 
 ## Interesses e atuações
 > - :computer: Atualmente estou trabalhando como desenvolvedora web na Hand Talk </br>
-> - 🌱 Faço parte do capítulo brasileiro da organização Internet Society (ISOC Brasil) e do Grupo de interesse especial em acessibilidade da sociedade da Internet (A11YSIG) </br>
+> - 🌱 Faço parte do capítulo brasileiro da organização Internet Society (ISOC Brasil) e do Grupo de interesse especial em acessibilidade da Internet Society (A11YSIG) </br>
 > - :ok_woman: Sou membro do programa Google's Women Techmakers </br>
 > - :speech_balloon: Aberta a ajudar a quem precisar, no que eu puder ajudar! </br>
 
