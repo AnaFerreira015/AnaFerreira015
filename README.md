@@ -1,7 +1,7 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ana Ferreira</h1>
-## Sobre mim
+<h2 align="center">A Web Developer focused on learning about accessibility</h2>
 
-> - Nordestina
+> - 🔭 I’m currently working on [Hand Talk](https://handtalk.me)
 > - Desenvolvedora web || Dev
 > - Ciência da Computação - UFAL
 > - Técnica em informática - IFAL
