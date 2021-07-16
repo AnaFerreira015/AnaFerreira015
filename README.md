@@ -7,7 +7,7 @@
 >
 > - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Accessibility**
 >
-> - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/anaferreira015/)
+> - :globe_with_meridians: Find me on [LinkedIn](https://www.linkedin.com/in/anaferreira015/)
 > 
 > - 🌱 I'm part of the Brazilian chapter of the Internet Society organization (ISOC Brasil) and of the Internet Society's Special Interest Group on Accessibility (A11YSIG)
 
@@ -15,7 +15,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFerreira015&layout=compact)
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=AnaFerreira015&show_icons=true)
 
-:globe_with_meridians: [Linkedin](https://www.linkedin.com/in/anaferreira015/) <br/>
 :page_facing_up: [Lattes](http://lattes.cnpq.br/2701672104479356)
 <!--
 **AnaFerreira015/AnaFerreira015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
