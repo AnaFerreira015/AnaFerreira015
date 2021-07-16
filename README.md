@@ -2,9 +2,12 @@
 <h2 align="center">A Web Developer focused on learning about accessibility</h2>
 
 > - 🔭 I’m currently working on [Hand Talk](https://handtalk.me)
-> - Desenvolvedora web || Dev
-> - Ciência da Computação - UFAL
-> - Técnica em informática - IFAL
+>
+> - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Accessibility**
+>
+> - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/anaferreira015/)
+>
+> - 📚 I'm currently studying Computer Science
 
 ## Interesses e atuações
 > - :computer: Atualmente estou trabalhando como desenvolvedora web na Hand Talk </br>
