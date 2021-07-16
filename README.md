@@ -3,21 +3,13 @@
 
 > - 🔭 I’m currently working on [Hand Talk](https://handtalk.me)
 >
+> - 📚 I'm currently studying Computer Science
+>
 > - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Accessibility**
 >
 > - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/anaferreira015/)
->
-> - 📚 I'm currently studying Computer Science
-
-## Interesses e atuações
-> - :computer: Atualmente estou trabalhando como desenvolvedora web na Hand Talk </br>
-> - 🌱 Faço parte do capítulo brasileiro da organização Internet Society (ISOC Brasil) e do Grupo de interesse especial em acessibilidade da Internet Society (A11YSIG) </br>
-> - :ok_woman: Sou membro do programa Google's Women Techmakers </br>
-> - :speech_balloon: Aberta a ajudar a quem precisar, no que eu puder ajudar! </br>
-
-## Fun Facts 🤡
-> - Gosto de programar em ambientes diferentes no decorrer do dia (sinto que melhora a criatividade 🤔) </br>
-> - Prefiro chá do que café 🤷🏽‍♀️ </br>
+> 
+> - 🌱 I'm part of the Brazilian chapter of the Internet Society organization (ISOC Brasil) and of the Internet Society's Special Interest Group on Accessibility (A11YSIG)
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFerreira015&layout=compact)
