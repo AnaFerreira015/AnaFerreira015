@@ -5,7 +5,7 @@
 >
 > - 📚 I'm currently studying Computer Science
 >
-> - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Accessibility**
+> - 💬 Ask me about **JavaScript, HTML, CSS, SQL, PHP and Accessibility**
 >
 > - :globe_with_meridians: Find me on [LinkedIn](https://www.linkedin.com/in/anaferreira015/)
 > 
