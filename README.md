@@ -1,7 +1,7 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ana Ferreira</h1>
 <h2 align="center">A Web Developer focused on learning about Accessibility</h2>
 
-> - 🔭 I’m currently working on [Hand Talk](https://handtalk.me)
+> - 🔭 I’m currently looking for a job as a full stack developer
 >
 > - 📚 I'm currently studying Computer Science
 >
