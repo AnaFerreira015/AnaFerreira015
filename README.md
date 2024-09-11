@@ -1,15 +1,15 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ana Ferreira</h1>
 <h2 align="center">A Web Developer focused on learning about Accessibility</h2>
 
-> - 🔭 I’m currently looking for a job as a full stack developer
+> - 🔭 I'm a front-end developer
 >
-> - 📚 I'm currently studying Computer Science
+> - 📚 Computer Scientist
 >
 > - 💬 Ask me about **JavaScript, HTML, CSS, SQL, PHP and Accessibility**
 >
 > - :globe_with_meridians: Find me on [LinkedIn](https://www.linkedin.com/in/anaferreira015/)
 > 
-> - 🌱 I'm part of the Brazilian chapter of the Internet Society organization (ISOC Brasil) and of the Internet Society's Special Interest Group on Accessibility (A11YSIG)
+> - 🌱 I'm part of Google's Women Techmakers Program
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFerreira015&layout=compact)
